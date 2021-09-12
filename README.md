@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=multiplayer-2048&theme=vue-dark)](https://github.com/adityausathe/multiplayer-2048)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=vlc-subdics&theme=vue-dark)](https://github.com/adityausathe/vlc-subdics)
 
-## Established open-source contribution
+## Contribution to established open-source projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipython&repo=ipython&theme=vue-dark)](https://github.com/ipython/ipython/pulls?q=author%3Aadityausathe)
 
 ### Thanks for visiting! Hope to see you more often 😃
