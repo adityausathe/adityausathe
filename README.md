@@ -3,7 +3,7 @@
 ## About me
 - 👨‍💻 I'm a software developer who likes open-source, and prioritizes his dev-time for it.
 - 🔭 I’m currently working on building some awesome tools, which would help us solve some of the common problems we face on a daily-basis.
-- 🌱 I’m currently learning the stuff which I need to learn to build those tools☝️ 😃.
+- 🌱 I’m currently learning the stuff which I need to learn for building those tools☝️ 😃.
 - ⚡ I love contributing to the established open-source projects, whenever possible.
   
 ## Personal Projects
