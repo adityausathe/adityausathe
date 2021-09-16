@@ -20,6 +20,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=mini-bash&theme=vue-dark)](https://github.com/adityausathe/mini-bash)
 
 ## Contribution to established open-source projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipython&repo=ipython&theme=github_dark)](https://github.com/ipython/ipython/pulls?q=author%3Aadityausathe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipython&repo=ipython&theme=react)](https://github.com/ipython/ipython/pulls?q=author%3Aadityausathe)
 
 ### Thanks for visiting! Hope to see you more often 😃
