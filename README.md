@@ -17,6 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=popup-dictionary&theme=vue-dark)](https://github.com/adityausathe/popup-dictionary)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=multiplayer-2048&theme=vue-dark)](https://github.com/adityausathe/multiplayer-2048)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=vlc-subdics&theme=vue-dark)](https://github.com/adityausathe/vlc-subdics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=pdf-highlights-extractor&theme=vue-dark)](https://github.com/adityausathe/pdf-highlights-extractor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=mini-bash&theme=vue-dark)](https://github.com/adityausathe/mini-bash)
 
 ## Contribution to established open-source projects
