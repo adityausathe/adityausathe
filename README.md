@@ -10,6 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=predictive-cache&theme=vue-dark)](https://github.com/adityausathe/predictive-cache)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=content-scheduler&theme=vue-dark)](https://github.com/adityausathe/content-scheduler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=wardrobe-picker&theme=vue-dark)](https://github.com/adityausathe/wardrobe-picker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=bipartite-document-matcher&theme=vue-dark)](https://github.com/adityausathe/bipartite-document-matcher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=java-microservice-template&theme=vue-dark)](https://github.com/adityausathe/java-microservice-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=pedagogical-timetable-generator&theme=vue-dark)](https://github.com/adityausathe/pedagogical-timetable-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityausathe&repo=airtouch&theme=vue-dark)](https://github.com/adityausathe/airtouch)
